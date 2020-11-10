@@ -26,6 +26,8 @@ At the heart of this system is our rules engine. Visually, it can be represented
 
 Each "Questions" block contains a rule group. Each rule group can contain a number of rules or further rule groups nested under it. This allows us to define a number of questions but also the rules around how those questions must be answered, including comparisons with other questions.
 
+Once a block of questions has been completed, the user can move on to the next block. In the above diagram, completing "Questions A" would allow the user to move on to either "Questions B" or "Questions C".
+
 ## Simple example
 
 Given the following configuration:
