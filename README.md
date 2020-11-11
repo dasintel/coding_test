@@ -90,6 +90,8 @@ This question set contains three questions. The first must be answered "no" and 
 
 Your job is to provide the function for checking the rule groups (see the file `src/ruleGroup.js`). We have already provided a rule.js function along with tests to show how it works. We have also provided tests for the `ruleGroup` functions but these will fail until an implementation has been provided.
 
+**Feel more comfortable in a language that is not JavaScript?** We get it, JavaScript is not the worlds greatest language, however it is part of our stack. If you would like, feel free to solve this problem in a language of your choosing. One caveat exists with using a different language, we do need to be able to run a similar set of tests that exist in the JavaScript implementation.
+
 ## Steps
 
 1. Clone / download our coding test repository.
