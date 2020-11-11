@@ -42,9 +42,9 @@ const ruleGroupAll = {
       "question": "Do you have a drivers license?"
     },
     {
-      "answer": "Are you under 15?",
+      "answer": "yes",
       "operation": rule.OP.IS_NOT,
-      "question": "yes"
+      "question": "Are you under 15?"
     }
   ]
 }
