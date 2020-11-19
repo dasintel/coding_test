@@ -15,7 +15,7 @@ const getAnswer = (question, userAnswers) => {
 }
 
 /**
- * This fuction is seperate from the checkRule to allow a scenerio where we might want to check despite the user not having an answer.
+ * This function is separate from the checkRule to allow a scenario where we might want to check despite the user not having an answer.
  */
 const checkAnswer = (rule, userAnswers) => {
   answer = getAnswer(rule.question, userAnswers)
