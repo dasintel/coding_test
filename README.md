@@ -98,7 +98,7 @@ Your job is to provide the function for checking the rule groups (see the file `
 
 2. Implement the function under `ruleGroup` until the tests pass. If you cannot get all tests to pass, please complete as many as possible.
 
-3. Tar your solution and send the archive to samr@dasintel.io
+3. Provide a link where we can see this tests, either a zipped version or a repo. Please grant access to paulc@dasintel.io
 
 ## Setup
 
