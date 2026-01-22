@@ -7,7 +7,7 @@
   },
   "author": "Sam Richardson",
   "dependencies": {
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "jest": "^30.0.5"
